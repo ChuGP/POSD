@@ -1,0 +1,5 @@
+jenkins:https://ssl-jenkins.csie.ntut.edu.tw/
+
+自己的git:https://ssl-gitlab.csie.ntut.edu.tw/107598058/107598058_HW
+
+助教的git:https://ssl-gitlab.csie.ntut.edu.tw/root/POSD2018f_Assignment/tree/Course_information
