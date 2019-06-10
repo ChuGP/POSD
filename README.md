@@ -1,7 +1,7 @@
 # POSD
 Design Pattern
 
-Use `C++` To implements
+Use `C++` and write `makefile` To implements
 1. `Adapter`
 2. `composite`
 3. `proxy`
