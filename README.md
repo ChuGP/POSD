@@ -1,6 +1,7 @@
 # POSD
 Design Pattern
-Use C++
+
+Use `C++`
 1. `Adapter`
 2. `composite`
 3. `proxy`
