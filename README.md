@@ -3,7 +3,8 @@ Design Pattern
 
 Use `C++` and write `makefile` running on `Bash`
 
-To implements
+To implements File System
+
 1. `Adapter`
 2. `composite`
 3. `proxy`
